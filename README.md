@@ -5,6 +5,7 @@ Technical Challenge
 ## Getting Started
 
 You can Run this project from VSCode in case that you are a developer. Also you can build a debug apk runing the command
+
 - flutter build apk --debug
 
 A few resources to get you started if you dont have the setup:
@@ -18,12 +19,11 @@ A few resources to get you started if you dont have the setup:
 - path_provider: ^2.1.0
 - provider: ^6.0.5
 
-##Missing Features
+##Features
 
-- Cache data for offline Mode using HIVE
+- Cache data for offline Mode using [HIVE](https://pub.dev/packages/hive)
 - Change or Select Image from Camera Roll
 - Take Picture from Camera
-
 
 ###Foot Note:
 For help getting started with Flutter development, view the
