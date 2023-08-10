@@ -9,7 +9,7 @@ You can Run this project from VSCode in case that you are a developer. Also you 
 
 A few resources to get you started if you dont have the setup:
 
-- [Prepare your Flutter app for Release on Android]([https://docs.flutter.dev/get-started/codelab](https://docs.flutter.dev/deployment/android))
+- [Prepare your Flutter app for Release on Android](https://docs.flutter.dev/get-started/codelab](https://docs.flutter.dev/deployment/android)
 
 ##Packages used:
 
